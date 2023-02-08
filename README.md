@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @metinbicaksiz
-- 👀 I’m interested in software development and educational technologies
-- 🌱 I’m currently learning Html, Css, JS, TypeScript, NodeJs and React
-- 💞️ I’m looking to collaborate on Compoent based, stateful/stateless front-end projects
+- 👀 I’m interested in software development and educational technologies since I have a strong background in education. 
+- 🌱 I’m currently learning HTML, CSS, JS, TypeScript, React and developing MicroService Architecture in Java. 
 - 📫 How to reach me: You can find me on lindkedin at https://www.linkedin.com/in/dkmb/
 
 <!---
