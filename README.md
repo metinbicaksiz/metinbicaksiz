@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metinbicaksiz
 - 👀 I’m interested in software development and educational technologies since I have a strong background in education. 
-- 🌱 I’m currently learning HTML, CSS, JS, TypeScript, React and developing MicroService Architecture in Java. 
+- 🌱 I know HTML, CSS, JS, TypeScript, React, Redux, Next.js, Node.js and developing MicroService Architecture in Java. 
 - 📫 How to reach me: You can find me on lindkedin at https://www.linkedin.com/in/dkmb/
 
 <!---
