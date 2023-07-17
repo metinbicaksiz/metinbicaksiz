@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/metinbicaksiz/static/css/main.c57db53e.css",
+    "main.js": "/metinbicaksiz/static/js/main.ca4fdef8.js",
+    "static/js/415.c0c4f0ca.chunk.js": "/metinbicaksiz/static/js/415.c0c4f0ca.chunk.js",
+    "static/js/787.ca1d8c8f.chunk.js": "/metinbicaksiz/static/js/787.ca1d8c8f.chunk.js",
+    "static/media/codeEditor.png": "/metinbicaksiz/static/media/codeEditor.5de78d2062829c9c45ec.png",
+    "static/media/emotion.png": "/metinbicaksiz/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/blog.png": "/metinbicaksiz/static/media/blog.6a17611f38d633d2e2c5.png",
+    "static/media/chatify.png": "/metinbicaksiz/static/media/chatify.513cd2d0f759b67d92eb.png",
+    "static/media/Metin_BICAKSIZ_FS.pdf": "/metinbicaksiz/static/media/Metin_BICAKSIZ_FS.224af7fe9a3d460dc8f7.pdf",
+    "static/media/suicide.png": "/metinbicaksiz/static/media/suicide.95d77d878bbc833e9180.png",
+    "static/media/home-main.svg": "/metinbicaksiz/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/metinbicaksiz/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/metinbicaksiz/static/media/logo.ac463c0e59a25d3cb819.png",
+    "static/media/home-bg.jpg": "/metinbicaksiz/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/metinbicaksiz/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/metinbicaksiz/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/metinbicaksiz/index.html",
+    "main.c57db53e.css.map": "/metinbicaksiz/static/css/main.c57db53e.css.map",
+    "main.ca4fdef8.js.map": "/metinbicaksiz/static/js/main.ca4fdef8.js.map",
+    "415.c0c4f0ca.chunk.js.map": "/metinbicaksiz/static/js/415.c0c4f0ca.chunk.js.map",
+    "787.ca1d8c8f.chunk.js.map": "/metinbicaksiz/static/js/787.ca1d8c8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57db53e.css",
+    "static/js/main.ca4fdef8.js"
+  ]
+}
