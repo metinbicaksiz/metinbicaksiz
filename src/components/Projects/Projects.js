@@ -86,7 +86,6 @@ function Projects() {
               ghLink='https://github.com/metinbicaksiz/libft'
             />
           </Col>
-
               <Col md={4} className='project-card'>
             <ProjectCard
               imgPath={emotion}
