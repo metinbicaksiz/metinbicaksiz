@@ -87,17 +87,16 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className='project-card'>
+              <Col md={4} className='project-card'>
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title='Face Recognition and Emotion Detection'
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink='https://github.com/soumyajit4419/Face_And_Emotion_Detection'
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
+              title='Imaginer'
+              description="AI supported image generation NEXT.JS app. This app uses replicate.com website for image generation support. Most of the basic Next.js functionalities are included, both SSR and CSR options. Since there is a daily limit of prediction on replicate, there is a rate limiter function, which will only allow you to try 3 times a dat=y from the same device. While giving prompts, you can choose from the templates provided or the images, or you can type your own request. After image generatio, you can also download it produced image."
+              ghLink='https://github.com/metinbicaksiz/imaginer'
+              demoLink="https://imaginer.vercel.app"
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
