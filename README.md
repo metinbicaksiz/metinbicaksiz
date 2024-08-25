@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @metinbicaksiz<br>👀 I’m interested in software development and educational technologies since I have a strong background in education.<br>🌱 I know HTML, CSS, JS, TypeScript, React, Redux, Next.js, Node.js and developing MicroService Architecture in Java.<br>📫 How to reach me: You can find me on the links below:
+👋 Hi, I’m @metinbicaksiz<br>👀 I’m interested in software development and educational technologies since I have a strong background in education and true passion for software develoment.<br>🌱 I know HTML, CSS, JS, TypeScript, React, Redux, Next.js, Node.js and developing MicroService Architecture in Java, Spring 
+boot. <br>🌱 I have written my masters thesis on authentication and authorization mechanisms in microservice architecture, especially on JWT signature algorithms. <br>📫 How to reach me: You can find me on the links below:
 
 
 ## 🌐 Socials:
