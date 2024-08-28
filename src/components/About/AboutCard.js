@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: 'justify' }}>
             Hi Everyone, I am <span className='purple'>Metin BICAKSIZ </span>
             from <span className='purple'> Istanbul, Turkiye.</span>
-            <br /> I am a final year student at Istanbul Kultur University
-            Computer Engineering Masters program, working on my thesis about
+            <br /> I have completed my masters in Computer Engineering program  at Istanbul Kultur University
+            , wrote my thesis about
             interservice authentication and authorization mechanisms in
             microservice architecture.
             <br />
